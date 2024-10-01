@@ -28,5 +28,9 @@ Conteúdo:
 -Adj Close: valor de fechamento ajustado;
 -Volume: quantidade de ações ou contratos que foram negociados;
 
+# Dados de treinamento e dados de teste
+A base de dados (BD) foi dividida em duas, a base treinamento é (BD-30medidas) e a base de teste são as 30 medidas restantes, portanto, não incluidas no treinamento. 
+Em resumo:
+
 # ENDPOINTS 
 Exemplo: /producao
