@@ -20,13 +20,13 @@ O algoritmo de previsão Amazon SageMaker DeepAR é um algoritmo de aprendizado 
 Neste dataset apresentaremos um conjunto de dados extraídos de cotações de ações da Petrobras (PETR4.SA) disponível em: https://www.kaggle.com/datasets/delusdias/banco-do-brazil-sa-bbas3sa
 
 Conteúdo:
--Date: data da cotação;
--Open: valor de abertura;
--High: maior valor;
--Low: menor valor;
--Close: valor de fechamento;
--Adj Close: valor de fechamento ajustado;
--Volume: quantidade de ações ou contratos que foram negociados;
+- Date: data da cotação;
+- Open: valor de abertura;
+- High: maior valor;
+- Low: menor valor;
+- Close: valor de fechamento;
+- Adj Close: valor de fechamento ajustado;
+- Volume: quantidade de ações ou contratos que foram negociados;
 
 # Dados de treinamento e dados de teste
 A base de dados (BD) foi dividida em duas, a base treinamento é (BD-30medidas) e a base de teste são as 30 medidas restantes, portanto, não incluidas no treinamento. 
